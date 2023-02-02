@@ -1,0 +1,23 @@
+Report for Brokers
+Client Number: 1
+	 Investor Type: Trust
+	 Investor ID: 5
+		 Trustee Number: 1
+			 First Name: Max
+			 Last Name: Bruce
+		 Trustee Number: 2
+			 First Name: Sam
+			 Last Name: Bruce
+		 Beneficiary Number: 1
+			 First Name: Max
+			 Last Name: Bruce
+		 Beneficiary Number: 2
+			 First Name: Sam
+			 Last Name: Bruce
+Client Number: 2
+	 Investor Type: Company
+	 Investor ID: 6
+	 Company Name: Max Pty Ltd
+		 Director Number: 1
+			 First Name: Maxwell
+			 Last Name: Bruce
